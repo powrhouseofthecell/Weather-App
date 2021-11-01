@@ -6,8 +6,6 @@ const cityName = process.argv[2];
 
 if (!cityName) console.log('Please provide a city name!');
 else {
-  const url = `https://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=${process.env.API_KEY}`;
-  getWeather(url);
+   const url = `https://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=${process.env.API_KEY}`;
+   getWeather(url);
 }
-
-console.log(process.env.API_KEY);
