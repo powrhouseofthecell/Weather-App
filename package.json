@@ -1,0 +1,17 @@
+{
+   "name": "weather-app",
+   "version": "1.0.0",
+   "type": "module",
+   "description": "",
+   "main": "app.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node --experimental-modules app.js"
+   },
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "axios": "^0.21.1",
+      "dotenv": "^10.0.0"
+   }
+}
