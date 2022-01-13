@@ -22,6 +22,11 @@ npm install
 npm run start
 ```
 
+## Check weather
+
+node app.js "New York" <br/>
+node app.js Delhi <br/>
+
 ## Author
 
 👤 **Zuhaib Nazir**
