@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> A command line script built with ExpressJS for fetching weather.
+> A command line script for fetching weather, with open weather API.
 
 ## Install
 
