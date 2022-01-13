@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to weather-app 👋</h1>
+<h1 align="center">Weather App 👋</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
