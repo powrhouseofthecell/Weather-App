@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> A command line script for fetching weather, with open weather API.
+> A command line script for fetching weather, with open-weather API.
 
 ## Install
 
