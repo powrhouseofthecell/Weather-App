@@ -10,13 +10,15 @@
 ## Install
 
 ```sh
+
 npm install
 ```
 
 ## Usage
 
 ```sh
-npm run start
+node app.js "New York" <br/>
+node app.js Delhi <br/>
 ```
 
 ## Check weather
