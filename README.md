@@ -21,11 +21,6 @@ node app.js "New York"
 node app.js Delhi
 ```
 
-## Check weather
-
-node app.js "New York" <br/>
-node app.js Delhi <br/>
-
 ## Author
 
 👤 **Zuhaib Nazir**
