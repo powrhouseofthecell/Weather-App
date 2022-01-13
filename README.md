@@ -1,8 +1,5 @@
 <h1 align="center">Welcome to weather-app 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/weather-app" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/weather-app.svg">
-  </a>
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
